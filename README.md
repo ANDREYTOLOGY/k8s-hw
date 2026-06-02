@@ -7,7 +7,7 @@
 ![1](https://github.com/ANDREYTOLOGY/k8s-hw/blob/main/img/k8s-1.png)   
 ![2](https://github.com/ANDREYTOLOGY/k8s-hw/blob/main/img/k8s-2.png)  
 
-При открытии http://localhost:8080 через curl отображается информация о запросе.  
+При обращении к http://localhost:8080 отображается информация о запросе.  
 
 ## Задание 2. Создать Service и подключить его к Pod
 
@@ -18,5 +18,4 @@
 
 ![4](https://github.com/ANDREYTOLOGY/k8s-hw/blob/main/img/k8s-4.png)  
 
-При открытии http://localhost:8080 сервис успешно перенаправляет запрос на Pod.
-
+Сервис успешно перенаправляет запросы на Pod по адресу http://localhost:8080  
