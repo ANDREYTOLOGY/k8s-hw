@@ -4,8 +4,8 @@
 
 **Файл манифеста:** [`hello-world-pod.yaml`](/hello-world-pod.yaml)
 
-![1]((https://github.com/ANDREYTOLOGY/k8s-hw/blob/main/img/k8s-1.png))   
-![2]((https://github.com/ANDREYTOLOGY/k8s-hw/blob/main/img/k8s-2.png))  
+![1](https://github.com/ANDREYTOLOGY/k8s-hw/blob/main/img/k8s-1.png)   
+![2](https://github.com/ANDREYTOLOGY/k8s-hw/blob/main/img/k8s-2.png)  
 
 При открытии http://localhost:8080 через curl отображается информация о запросе.  
 
